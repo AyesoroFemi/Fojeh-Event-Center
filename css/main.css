@@ -1,0 +1,18 @@
+body {
+    /* background-color:black; */
+}
+
+.header{
+    color: yellow;
+}
+
+.carousel-item{
+    height: 500px;
+    background-position: center;
+    background-size:cover;
+}
+
+/* .background-hero{
+  
+    background-color: yellow;
+} */
