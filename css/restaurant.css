@@ -1,0 +1,12 @@
+.body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   }
+   
+   .rest-image{
+       background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/affair-1238429_1920.jpg');
+       min-height: 400px;
+       background-size: cover;
+       background-position: center;
+   }
