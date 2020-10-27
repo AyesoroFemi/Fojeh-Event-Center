@@ -32,6 +32,12 @@ body {
     border-bottom: 5px solid red;
     margin-bottom: 50px;
 }
+.location{
+   margin-top: 50px;
+}
+.location-detail{
+    margin-top: 40px;
+}
 /* .background-hero{
   
     background-color: yellow;

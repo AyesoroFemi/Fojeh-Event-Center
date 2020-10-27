@@ -5,8 +5,15 @@
    }
    
    .rest-image{
-       background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/affair-1238429_1920.jpg');
+       background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/pexels-edward-eyer-667986.jpg');
        min-height: 400px;
        background-size: cover;
        background-position: center;
    }
+
+   .location{
+    margin-top: 50px;
+ }
+ .location-detail{
+     margin-top: 40px;
+ }
