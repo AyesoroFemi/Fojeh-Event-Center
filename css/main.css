@@ -1,5 +1,6 @@
 body {
     /* background-color:black; */
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .header{
@@ -12,6 +13,25 @@ body {
     background-size:cover;
 }
 
+.welcome{
+    margin: 50px 0;
+}
+
+.custom-font{
+    font-family: 'Lora', serif;
+}
+.lines{
+    width: 100px;
+   margin: 0 auto;
+    border-bottom: 5px solid red;
+    margin-bottom: 50px;
+}
+.line-gallery{
+    width: 50px;
+   margin: 0 auto;
+    border-bottom: 5px solid red;
+    margin-bottom: 50px;
+}
 /* .background-hero{
   
     background-color: yellow;
