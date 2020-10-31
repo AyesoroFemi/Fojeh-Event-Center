@@ -1,10 +1,17 @@
 
 
 .about-image{
-    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/pexels-sl-wong-1191426.jpg');
+    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/slide-1.png');
     min-height: 400px;
     background-size: cover;
     background-position: center;
+}
+
+.lines{
+    width: 100px;
+   /* margin: 0 auto; */
+    border-bottom: 5px solid red;
+    margin-bottom: 50px;
 }
 
 .location{

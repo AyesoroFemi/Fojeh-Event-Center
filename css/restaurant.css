@@ -5,7 +5,7 @@
    }
    
    .rest-image{
-       background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/pexels-edward-eyer-667986.jpg');
+       background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.9)), url('../img/restpage.png');
        min-height: 400px;
        background-size: cover;
        background-position: center;
@@ -17,3 +17,4 @@
  .location-detail{
      margin-top: 40px;
  }
+

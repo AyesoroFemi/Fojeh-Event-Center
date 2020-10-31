@@ -11,3 +11,10 @@
  .location-detail{
      margin-top: 40px;
  }
+
+ .lines{
+    width: 100px;
+   margin: 0 auto;
+    border-bottom: 5px solid red;
+    margin-bottom: 50px;
+}
