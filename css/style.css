@@ -1,7 +1,7 @@
 
 
 .about-image{
-    background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0,0.5)), url('../img/slide-1.png');
+    background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0,0.4)), url('../img/slide-1.png');
     min-height: 400px;
     background-size: cover;
     background-position: center;
